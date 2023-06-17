@@ -1,6 +1,6 @@
 # BravePotato 1.35
 A new way for SeImpersonatePrivilege Abuse. 
-Ferramenta para elevação deprivilégio por meio de abuso do privilégio SeImpersonatePrivilege.
+Ferramenta para elevação de privilégio por meio de abuso do privilégio SeImpersonatePrivilege.
 
 I created this tool for the abuse of SeImpersonatePrivilege on any windows system since current tools are limited up to windows 10 on a specific build.
 
